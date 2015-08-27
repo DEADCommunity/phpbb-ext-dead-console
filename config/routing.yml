@@ -1,0 +1,3 @@
+dead_console_controller:
+    pattern: /console
+    defaults: { _controller: dead.console.controller:handle }
